@@ -1,0 +1,1 @@
+# blizzard-anti-bot
